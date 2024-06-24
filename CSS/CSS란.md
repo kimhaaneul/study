@@ -71,11 +71,11 @@
 ![Untitled 3](https://github.com/kimhaaneul/study/assets/158141404/7221195c-315e-45d6-8be0-6a4ccbe8f952)
 
 
-- 순서는 꼭
--     1. hover
--     2. focus
--     3. active
-    
-    → 이 순서로 해야함.
+- 순서는 꼭<br>
+
+        1. hover
+        2. focus
+        3. active
+   → 이 순서로 해야함.
 
 ---
