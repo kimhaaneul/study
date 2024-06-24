@@ -1,4 +1,4 @@
-### SPA의 원리
+### SPA(Single Page Application)의 원리
     SSR(Server Side Rendering:서버 사이드 렌더링)과 CSR(Client Side Rendering:클라이언트 사이드 렌더링)
     두가지가 있음.
 
