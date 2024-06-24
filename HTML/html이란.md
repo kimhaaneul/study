@@ -159,7 +159,14 @@ HTML문서는 일반 문서와 달리 정해진 형식에 맞추어 내용을 �
 - div : division의 줄임말
   
 - div태그는 id나 class 속성을 사용해서 문서 구조를 만들거나 스타일을 적용할 떄 사용.
-  
+
   즉 영역을 구별하거나 스타일로 문서를 꾸밀때 사용 된다!
+  
+
+#### 전체적인 느낌
+![Untitled (1)](https://github.com/kimhaaneul/study/assets/158141404/50bda527-a6c8-4b07-8bc5-af4ea82c4b97)
+
+  
+  
 
 ---
