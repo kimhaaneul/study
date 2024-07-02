@@ -56,3 +56,21 @@
  - 위 3개는 기본적으로 css에서 걸고 시작하면 편함
     
 ---
+
+### js에서 마치 애니메이션 효과같은 기능 사용 시
+```
+display:none; --> visibility : hidden;
+: 애니메이션 효과 줄때 쓰는거, display:none이랑 같음
+```
+```
+display:black --->  visibility: visible;
+: 애니메이션 효과 줄때 쓰는거, display:black랑 같음
+```
+
+
+
+
+
+
+
+
