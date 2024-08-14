@@ -67,6 +67,10 @@ display:black --->  visibility: visible;
 : 애니메이션 효과 줄때 쓰는거, display:black랑 같음
 ```
 
+### 버튼 배경 투명하게(만든 이미지를 사용할 때)
+```
+background-color: transparent;
+```
 
 
 
