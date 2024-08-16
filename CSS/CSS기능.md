@@ -72,6 +72,10 @@ display:black --->  visibility: visible;
 background-color: transparent;
 ```
 
+### 글씨 간격 조절
+```
+line-height:1.5(원하는 간격)
+```
 
 
 
