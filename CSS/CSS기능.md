@@ -81,6 +81,9 @@ line-height:1.5(원하는 간격)
 ```
 grid-template-columns: repeat(4, 1fr) - 행 당 배치할 개수 / 1행에 4개를 동일한 간격에 배치하겠다.
 ```
+```
+grid-gap: 20px; 그리도 간격 조절
+```
 
 
 
